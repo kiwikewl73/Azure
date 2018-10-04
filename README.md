@@ -1,3 +1,10 @@
-# Azure
-Azure templates 
-Educating myself on creating ARM template to create a Windows Server class VM with custom data. 
+# Azure ARM templates 
+
+Use an ARM template to deploy a Windows Server class VM with exiting infrastrcutre in Azure. 
+This expects at least one of each of the following:
+#existing Azure tenant ( else create one @ https://portal.azure.com)
+# existing Resource group
+# existing VNET
+# existing subnet
+# exiting Storage account
+$ 
