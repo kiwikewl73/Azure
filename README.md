@@ -6,5 +6,5 @@ This expects at least one of each of the following:
  - existing Resource group
  - existing VNET
  - existing subnet
- - exiting Storage account
+ - existing Storage account
 $ 
