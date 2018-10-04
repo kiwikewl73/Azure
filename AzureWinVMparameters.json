@@ -1,0 +1,45 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+      "virtualMachineName": {
+        "value": null
+      },
+      "virtualMachineSize": {
+        "value": null
+      },
+      "OsDiskType": {
+        "value": null
+      },
+      "operatingSystem": {
+        "value": null
+      },
+      "adminUsername": {
+        "value": null
+      },
+      "adminPassword": {
+        "value": null
+      },
+      "virtualNetworkName": {
+        "value": null
+      },
+      "vnetResourceGroup": {
+        "value": null
+      },
+      "subnetName": {
+        "value": null
+      },
+      "StaticIPAddress": {
+        "value": null
+      },
+      "networkInterfaceName": {
+        "value": null
+      },
+      "diagnosticStorageAccountName": {
+        "value": null
+      },
+      "StorageAccountResourceGroup": {
+        "value": null
+      }
+    }
+  }
