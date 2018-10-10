@@ -8,4 +8,10 @@ This expects at least one of each of the following:
  - existing subnet
  - existing Storage account
  
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+Deploy
+------
+
+<br>
+<a href="https://transmogrify.azurewebsites.net/sql-alwayson/azuredeploy.json" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
