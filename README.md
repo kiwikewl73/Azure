@@ -12,7 +12,6 @@ This expects at least one of each of the following:
 Deploy
 ------
 
-<br>
-<a href="https://transmogrify.azurewebsites.net/sql-alwayson/azuredeploy.json" target="_blank">
+<a href="https://azuredeploy.net/?repository=https://github.com/kiwikewl73/IaaC" target="_blank">
     <img src="http://azuredeploy.net/deploybutton.png"/>
 </a>
