@@ -7,4 +7,5 @@ This expects at least one of each of the following:
  - existing VNET
  - existing subnet
  - existing Storage account
-$ 
+ 
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
