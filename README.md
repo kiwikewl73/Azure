@@ -8,3 +8,10 @@ This requires at least one of each of the following:
  - existing subnet
  - existing Storage account
  
+Deploy
+------
+Deploy VM
+<br>
+<a href="https://transmogrify.azurewebsites.net/azure/AzureWinVMdeploy.json" target="_blank">
+    <img src="http://azuredeploy.net/deploybutton.png"/>
+</a>
